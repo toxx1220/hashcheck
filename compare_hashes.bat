@@ -1,6 +1,7 @@
-REM Author: toxx
-
 @echo off
+rem Author: toxx
+
+
 echo This program calculates the SHA256 Hash Value of a given File and compares it with a given Hash Value.
 set /p filename= Enter Filename: 
 set /p hashvalue= Enter Hashval: 
